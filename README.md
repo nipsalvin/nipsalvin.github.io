@@ -1,2 +1,2 @@
 # nipsalvin.github.io
-This was created using hexo
+This project was created using hexo
