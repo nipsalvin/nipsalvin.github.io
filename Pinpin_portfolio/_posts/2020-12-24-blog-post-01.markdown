@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Blog post 01"
 date: 2020-12-24 11:07:45 +0300
 ---

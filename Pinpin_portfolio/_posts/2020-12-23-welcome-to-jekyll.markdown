@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Pinpin portfolio"
 date:   2020-12-23 12:09:01 +0300
 categories: jekyll update
